@@ -1,10 +1,10 @@
 cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 0.0k, cache_available_percent : 99, average_key_size : 0.0k
 backing info: bypassed : 0.0k, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 0
 cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 512.0k, cache_available_percent : 98, average_key_size : 0.0k
-backing info: bypassed : 0.0k, cache_hits : 40, cache_hit_ratio : 0, cache_misses : 10171
+backing info: bypassed : 0.0k, cache_hits : 37, cache_hit_ratio : 0, cache_misses : 10445
 cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 512.0k, cache_available_percent : 98, average_key_size : 0.0k
-backing info: bypassed : 0.0k, cache_hits : 40, cache_hit_ratio : 0, cache_misses : 10171
+backing info: bypassed : 0.0k, cache_hits : 37, cache_hit_ratio : 0, cache_misses : 10445
 cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 512.0k, cache_available_percent : 98, average_key_size : 0.0k
-backing info: bypassed : 0.0k, cache_hits : 40, cache_hit_ratio : 0, cache_misses : 10171
+backing info: bypassed : 0.0k, cache_hits : 37, cache_hit_ratio : 0, cache_misses : 10445
 cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 512.0k, cache_available_percent : 98, average_key_size : 0.0k
-backing info: bypassed : 0.0k, cache_hits : 40, cache_hit_ratio : 0, cache_misses : 10171
+backing info: bypassed : 0.0k, cache_hits : 37, cache_hit_ratio : 0, cache_misses : 10445
