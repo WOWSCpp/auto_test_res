@@ -1,0 +1,1104 @@
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 4.7M, cache_available_percent : 93, average_key_size : 466.7k
+backing info: bypassed : 56.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133118
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 6.0M, cache_available_percent : 95, average_key_size : 28.2k
+backing info: bypassed : 56.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133118
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 6.7M, cache_available_percent : 94, average_key_size : 28.2k
+backing info: bypassed : 56.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133118
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 7.0M, cache_available_percent : 94, average_key_size : 28.2k
+backing info: bypassed : 56.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133118
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 7.5M, cache_available_percent : 93, average_key_size : 28.2k
+backing info: bypassed : 56.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133118
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 8.7M, cache_available_percent : 92, average_key_size : 28.2k
+backing info: bypassed : 56.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133118
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 10.5M, cache_available_percent : 92, average_key_size : 28.2k
+backing info: bypassed : 56.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133118
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 11.0M, cache_available_percent : 91, average_key_size : 28.2k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 11.2M, cache_available_percent : 90, average_key_size : 28.2k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 11.5M, cache_available_percent : 90, average_key_size : 28.2k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 11.7M, cache_available_percent : 89, average_key_size : 28.2k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 12.7M, cache_available_percent : 89, average_key_size : 13.5k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 14.5M, cache_available_percent : 88, average_key_size : 13.5k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 15.2M, cache_available_percent : 87, average_key_size : 13.5k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 16.5M, cache_available_percent : 87, average_key_size : 13.5k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 17.5M, cache_available_percent : 86, average_key_size : 13.5k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 17.5M, cache_available_percent : 86, average_key_size : 13.5k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 17.7M, cache_available_percent : 85, average_key_size : 13.5k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 18.0M, cache_available_percent : 84, average_key_size : 13.5k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 18.7M, cache_available_percent : 84, average_key_size : 13.5k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 19.7M, cache_available_percent : 83, average_key_size : 13.5k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 20.5M, cache_available_percent : 82, average_key_size : 9.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 21.2M, cache_available_percent : 82, average_key_size : 9.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 23.0M, cache_available_percent : 81, average_key_size : 9.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 23.7M, cache_available_percent : 80, average_key_size : 9.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 25.2M, cache_available_percent : 80, average_key_size : 9.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 27.0M, cache_available_percent : 79, average_key_size : 9.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 27.5M, cache_available_percent : 78, average_key_size : 9.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 28.5M, cache_available_percent : 78, average_key_size : 9.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 28.5M, cache_available_percent : 77, average_key_size : 9.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 29.2M, cache_available_percent : 76, average_key_size : 9.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 29.2M, cache_available_percent : 76, average_key_size : 9.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 29.2M, cache_available_percent : 75, average_key_size : 7.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 29.7M, cache_available_percent : 75, average_key_size : 7.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 30.0M, cache_available_percent : 74, average_key_size : 7.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 30.7M, cache_available_percent : 73, average_key_size : 7.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 32.0M, cache_available_percent : 73, average_key_size : 7.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 33.0M, cache_available_percent : 72, average_key_size : 7.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 33.2M, cache_available_percent : 71, average_key_size : 7.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 34.0M, cache_available_percent : 71, average_key_size : 7.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 34.7M, cache_available_percent : 70, average_key_size : 7.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 35.2M, cache_available_percent : 69, average_key_size : 7.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 36.2M, cache_available_percent : 69, average_key_size : 7.0k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 38.0M, cache_available_percent : 68, average_key_size : 7.0k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 38.7M, cache_available_percent : 68, average_key_size : 7.0k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 40.2M, cache_available_percent : 67, average_key_size : 7.0k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 41.0M, cache_available_percent : 66, average_key_size : 7.0k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 41.5M, cache_available_percent : 66, average_key_size : 7.0k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 42.2M, cache_available_percent : 65, average_key_size : 7.0k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 42.7M, cache_available_percent : 64, average_key_size : 7.0k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 43.7M, cache_available_percent : 64, average_key_size : 7.0k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 44.2M, cache_available_percent : 63, average_key_size : 7.0k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 42.7M, cache_available_percent : 62, average_key_size : 6.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 43.7M, cache_available_percent : 62, average_key_size : 6.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 44.7M, cache_available_percent : 61, average_key_size : 6.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 45.2M, cache_available_percent : 60, average_key_size : 6.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 45.7M, cache_available_percent : 60, average_key_size : 6.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 45.7M, cache_available_percent : 59, average_key_size : 6.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 46.5M, cache_available_percent : 59, average_key_size : 6.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 47.0M, cache_available_percent : 58, average_key_size : 6.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 47.0M, cache_available_percent : 57, average_key_size : 6.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 47.2M, cache_available_percent : 57, average_key_size : 6.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 47.5M, cache_available_percent : 56, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 48.5M, cache_available_percent : 55, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 48.7M, cache_available_percent : 55, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 50.5M, cache_available_percent : 54, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 51.0M, cache_available_percent : 53, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 51.7M, cache_available_percent : 53, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 52.5M, cache_available_percent : 52, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 53.0M, cache_available_percent : 52, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 53.5M, cache_available_percent : 51, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 53.7M, cache_available_percent : 50, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 53.0M, cache_available_percent : 50, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 52.2M, cache_available_percent : 49, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 53.5M, cache_available_percent : 48, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 56.0M, cache_available_percent : 48, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 57.2M, cache_available_percent : 47, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 58.7M, cache_available_percent : 46, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 59.7M, cache_available_percent : 46, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 60.0M, cache_available_percent : 45, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 60.2M, cache_available_percent : 44, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 60.5M, cache_available_percent : 44, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 61.5M, cache_available_percent : 43, average_key_size : 5.9k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 59.2M, cache_available_percent : 43, average_key_size : 5.8k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 62.0M, cache_available_percent : 42, average_key_size : 5.8k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 63.5M, cache_available_percent : 41, average_key_size : 5.8k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 64.2M, cache_available_percent : 41, average_key_size : 5.8k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 65.2M, cache_available_percent : 40, average_key_size : 5.8k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 65.7M, cache_available_percent : 39, average_key_size : 5.8k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 67.0M, cache_available_percent : 39, average_key_size : 5.8k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.0M, cache_available_percent : 38, average_key_size : 5.8k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.0M, cache_available_percent : 37, average_key_size : 5.8k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.7M, cache_available_percent : 37, average_key_size : 5.8k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 36, average_key_size : 5.8k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 65.7M, cache_available_percent : 36, average_key_size : 5.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 66.5M, cache_available_percent : 35, average_key_size : 5.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 66.5M, cache_available_percent : 34, average_key_size : 5.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 66.7M, cache_available_percent : 34, average_key_size : 5.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 67.0M, cache_available_percent : 33, average_key_size : 5.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 67.7M, cache_available_percent : 32, average_key_size : 5.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.7M, cache_available_percent : 32, average_key_size : 5.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 31, average_key_size : 5.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.7M, cache_available_percent : 31, average_key_size : 5.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 30, average_key_size : 5.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 30, average_key_size : 5.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 59.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 72.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 72.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 72.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 72.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 72.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 72.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 72.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 72.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 72.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 72.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 72.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 72.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 72.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 88.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 88.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 88.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 88.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 88.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 88.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 88.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 88.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 88.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 88.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 88.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 68.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 88.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 88.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 105.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 105.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 105.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 105.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 105.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 105.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 105.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 105.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 105.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 105.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 105.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 105.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 120.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 120.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 120.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 120.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 120.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 120.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 120.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 120.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 120.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 120.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 120.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 120.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 120.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 135.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 135.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 135.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 135.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 135.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 135.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 135.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 135.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 135.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 135.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 135.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 135.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 135.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 152.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 152.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 152.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 152.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 152.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 152.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 152.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 152.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 152.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 152.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 152.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 152.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 167.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 167.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 167.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 167.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 167.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 167.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 167.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 167.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 167.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 167.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 167.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 167.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 167.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 183.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 183.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 183.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 183.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 183.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 183.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 183.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 183.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 183.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 183.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 183.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 183.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 183.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 199.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 199.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 199.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 199.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 199.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 199.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 199.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 199.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 199.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 199.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 199.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 199.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 216.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 216.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 216.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 216.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 216.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 216.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 216.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 216.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 216.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 216.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 216.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 216.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 216.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 231.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 231.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 231.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 231.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 231.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 231.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 231.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 231.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 231.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 231.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 231.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 231.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 231.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 245.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 245.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 245.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 245.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 245.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 245.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 245.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 245.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 245.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 245.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 245.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 245.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 245.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 69.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 260.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 260.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 260.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 260.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 260.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 260.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 260.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 260.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 260.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 260.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 260.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 260.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 276.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 276.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 276.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 276.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 276.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 276.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 276.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 276.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 276.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 276.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 276.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 276.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 276.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 287.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 287.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 287.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 287.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 287.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 287.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 287.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 287.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 287.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 287.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 287.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 287.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 287.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 299.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 299.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 299.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 299.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 299.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 299.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 299.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 299.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 299.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 299.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 299.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 299.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 312.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 312.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 312.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 312.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 312.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 312.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 312.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 312.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 312.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 312.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 312.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 312.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 70.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 312.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 326.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 326.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 326.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 326.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 326.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 326.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 326.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 326.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 326.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 326.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.0M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 326.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 326.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 326.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 339.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 339.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 339.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 339.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 339.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 339.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 339.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 339.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 339.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 339.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 339.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 339.9M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 352.2M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 352.2M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 352.2M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 352.2M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 352.2M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 352.2M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.2M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 352.2M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 352.2M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.5M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 352.2M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 352.2M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 352.2M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 352.2M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 352.2M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 366.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 366.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 366.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 366.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 366.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 366.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 366.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 366.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 366.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 366.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 366.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 366.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 366.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 381.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 381.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 71.7M, cache_available_percent : 29, average_key_size : 5.7k
+backing info: bypassed : 381.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 381.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 381.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 381.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 381.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 381.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 381.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 381.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 381.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 381.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 394.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 394.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 394.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 394.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 394.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 394.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 394.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 394.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 394.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 394.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 394.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 394.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 394.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 409.5M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 409.5M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 409.5M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 409.5M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 409.5M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 409.5M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 409.5M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 409.5M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 409.5M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 409.5M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 409.5M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 409.5M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 409.5M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 425.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 425.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 425.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 425.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 425.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 425.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 425.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 425.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 425.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 425.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 425.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 425.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 437.8M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 437.8M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 437.8M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 437.8M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 437.8M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 437.8M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 437.8M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 437.8M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 437.8M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 437.8M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 437.8M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 437.8M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 437.8M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 452.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 452.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.5M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 452.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.5M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 452.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.5M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 452.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.5M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 452.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.5M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 452.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.5M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 452.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.5M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 452.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.5M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 452.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.5M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 452.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.5M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 452.0M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.5M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 464.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.5M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 464.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.5M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 464.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.5M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 464.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.5M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 464.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.7M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 464.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.7M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 464.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.7M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 464.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.7M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 464.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 72.7M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 464.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 464.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 464.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 464.3M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 478.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 478.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 478.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 478.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 478.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 478.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 478.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 478.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.5M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 478.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.5M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 478.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.7M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 478.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.7M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 478.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.7M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 478.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.7M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 491.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.7M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 491.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.7M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 491.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 73.7M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 491.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 491.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 491.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 491.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 491.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 491.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 491.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 491.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.0M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 491.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 502.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 502.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 502.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 502.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 502.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 502.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 502.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 502.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 502.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 502.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 502.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 502.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 502.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 515.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 515.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 515.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 515.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 515.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 515.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 515.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 515.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 515.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 515.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 515.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 515.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 515.6M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 528.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 528.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 528.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 528.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 528.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 528.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 528.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 528.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 528.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 528.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 528.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 528.4M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 539.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 539.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 539.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 539.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 539.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 539.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 539.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 539.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 539.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 539.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 539.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 539.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 539.7M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 552.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 552.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 552.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 552.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 552.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 552.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 552.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 552.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 552.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 552.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 552.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 552.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
+cache info: block_size : 0.5k, bucket_size : 512.0k, btree_size : 74.2M, cache_available_percent : 28, average_key_size : 5.7k
+backing info: bypassed : 552.1M, cache_hits : 0, cache_hit_ratio : 0, cache_misses : 133166
