@@ -1,0 +1,628 @@
+
+Aug 15 16:54:48 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:54:48 sfx-012 kernel: Info from divice: remain_phy: 1036898278, remain_log: 4147593112, used_log: 48650752
+Aug 15 16:54:48 sfx-012 kernel: before iteration: old_nbucket: 2069, old_avail_nbucket: 1978, used_nbucket: 91, used_bucket_total_log: 47710208, used_bucket_free: -940544, space_can_alloc: 1037838822
+Aug 15 16:54:48 sfx-012 kernel: after iteration: old_nbuckets: 2070, old_avail_nbuckets: 1979
+Aug 15 16:54:48 sfx-012 kernel: after iteration: new_nbuckets: 2070, new_avail_nbuckets: 1979
+Aug 15 16:54:48 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:54:53 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:54:53 sfx-012 kernel: Info from divice: remain_phy: 1026898278, remain_log: 4107593112, used_log: 88650752
+Aug 15 16:54:53 sfx-012 kernel: before iteration: old_nbucket: 2127, old_avail_nbucket: 1966, used_nbucket: 161, used_bucket_total_log: 84410368, used_bucket_free: -4240384, space_can_alloc: 1031138662
+Aug 15 16:54:53 sfx-012 kernel: after iteration: old_nbuckets: 2127, old_avail_nbuckets: 1966
+Aug 15 16:54:53 sfx-012 kernel: after iteration: new_nbuckets: 2127, new_avail_nbuckets: 1966
+Aug 15 16:54:53 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:54:59 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:54:59 sfx-012 kernel: Info from divice: remain_phy: 1016898278, remain_log: 4067593112, used_log: 128650752
+Aug 15 16:54:59 sfx-012 kernel: before iteration: old_nbucket: 2184, old_avail_nbucket: 1861, used_nbucket: 323, used_bucket_total_log: 169345024, used_bucket_free: 40694272, space_can_alloc: 976204006
+Aug 15 16:54:59 sfx-012 kernel: after iteration: old_nbuckets: 2184, old_avail_nbuckets: 1861
+Aug 15 16:54:59 sfx-012 kernel: after iteration: new_nbuckets: 2184, new_avail_nbuckets: 1861
+Aug 15 16:54:59 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:55:06 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:55:06 sfx-012 kernel: Info from divice: remain_phy: 1006898278, remain_log: 4027593112, used_log: 168650752
+Aug 15 16:55:06 sfx-012 kernel: before iteration: old_nbucket: 2241, old_avail_nbucket: 1850, used_nbucket: 391, used_bucket_total_log: 204996608, used_bucket_free: 36345856, space_can_alloc: 970552422
+Aug 15 16:55:06 sfx-012 kernel: after iteration: old_nbuckets: 2242, old_avail_nbuckets: 1851
+Aug 15 16:55:06 sfx-012 kernel: after iteration: new_nbuckets: 2242, new_avail_nbuckets: 1851
+Aug 15 16:55:06 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:55:11 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:55:11 sfx-012 kernel: Info from divice: remain_phy: 996898278, remain_log: 3987593112, used_log: 208650752
+Aug 15 16:55:11 sfx-012 kernel: before iteration: old_nbucket: 2298, old_avail_nbucket: 1723, used_nbucket: 575, used_bucket_total_log: 301465600, used_bucket_free: 92814848, space_can_alloc: 904083430
+Aug 15 16:55:11 sfx-012 kernel: after iteration: old_nbuckets: 2299, old_avail_nbuckets: 1724
+Aug 15 16:55:11 sfx-012 kernel: after iteration: new_nbuckets: 2299, new_avail_nbuckets: 1724
+Aug 15 16:55:11 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:55:17 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:55:17 sfx-012 kernel: Info from divice: remain_phy: 986898278, remain_log: 3947593112, used_log: 248650752
+Aug 15 16:55:17 sfx-012 kernel: before iteration: old_nbucket: 2356, old_avail_nbucket: 1713, used_nbucket: 643, used_bucket_total_log: 337117184, used_bucket_free: 88466432, space_can_alloc: 898431846
+Aug 15 16:55:18 sfx-012 kernel: after iteration: old_nbuckets: 2356, old_avail_nbuckets: 1713
+Aug 15 16:55:18 sfx-012 kernel: after iteration: new_nbuckets: 2356, new_avail_nbuckets: 1713
+Aug 15 16:55:18 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:55:24 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:55:24 sfx-012 kernel: Info from divice: remain_phy: 976898278, remain_log: 3907593112, used_log: 288650752
+Aug 15 16:55:24 sfx-012 kernel: before iteration: old_nbucket: 2413, old_avail_nbucket: 1583, used_nbucket: 830, used_bucket_total_log: 435159040, used_bucket_free: 146508288, space_can_alloc: 830389990
+Aug 15 16:55:24 sfx-012 kernel: after iteration: old_nbuckets: 2413, old_avail_nbuckets: 1583
+Aug 15 16:55:24 sfx-012 kernel: after iteration: new_nbuckets: 2413, new_avail_nbuckets: 1583
+Aug 15 16:55:24 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:55:30 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:55:30 sfx-012 kernel: Info from divice: remain_phy: 966898278, remain_log: 3867593112, used_log: 328650752
+Aug 15 16:55:30 sfx-012 kernel: before iteration: old_nbucket: 2470, old_avail_nbucket: 1572, used_nbucket: 898, used_bucket_total_log: 470810624, used_bucket_free: 142159872, space_can_alloc: 824738406
+Aug 15 16:55:30 sfx-012 kernel: after iteration: old_nbuckets: 2471, old_avail_nbuckets: 1573
+Aug 15 16:55:30 sfx-012 kernel: after iteration: new_nbuckets: 2471, new_avail_nbuckets: 1573
+Aug 15 16:55:30 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:55:34 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:55:34 sfx-012 kernel: Info from divice: remain_phy: 956898278, remain_log: 3827593112, used_log: 368650752
+Aug 15 16:55:34 sfx-012 kernel: before iteration: old_nbucket: 2527, old_avail_nbucket: 1447, used_nbucket: 1080, used_bucket_total_log: 566231040, used_bucket_free: 197580288, space_can_alloc: 759317990
+Aug 15 16:55:34 sfx-012 kernel: after iteration: old_nbuckets: 2528, old_avail_nbuckets: 1448
+Aug 15 16:55:34 sfx-012 kernel: after iteration: new_nbuckets: 2528, new_avail_nbuckets: 1448
+Aug 15 16:55:34 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:55:40 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:55:40 sfx-012 kernel: Info from divice: remain_phy: 946898278, remain_log: 3787593112, used_log: 408650752
+Aug 15 16:55:40 sfx-012 kernel: before iteration: old_nbucket: 2584, old_avail_nbucket: 1432, used_nbucket: 1152, used_bucket_total_log: 603979776, used_bucket_free: 195329024, space_can_alloc: 751569254
+Aug 15 16:55:40 sfx-012 kernel: after iteration: old_nbuckets: 2585, old_avail_nbuckets: 1433
+Aug 15 16:55:40 sfx-012 kernel: after iteration: new_nbuckets: 2585, new_avail_nbuckets: 1433
+Aug 15 16:55:40 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:55:46 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:55:46 sfx-012 kernel: Info from divice: remain_phy: 936898278, remain_log: 3747593112, used_log: 448650752
+Aug 15 16:55:46 sfx-012 kernel: before iteration: old_nbucket: 2642, old_avail_nbucket: 1426, used_nbucket: 1216, used_bucket_total_log: 637534208, used_bucket_free: 188883456, space_can_alloc: 748014822
+Aug 15 16:55:46 sfx-012 kernel: after iteration: old_nbuckets: 2642, old_avail_nbuckets: 1426
+Aug 15 16:55:46 sfx-012 kernel: after iteration: new_nbuckets: 2642, new_avail_nbuckets: 1426
+Aug 15 16:55:46 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:55:50 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:55:50 sfx-012 kernel: Info from divice: remain_phy: 926898278, remain_log: 3707593112, used_log: 488650752
+Aug 15 16:55:50 sfx-012 kernel: before iteration: old_nbucket: 2699, old_avail_nbucket: 1285, used_nbucket: 1414, used_bucket_total_log: 741343232, used_bucket_free: 252692480, space_can_alloc: 674205798
+Aug 15 16:55:50 sfx-012 kernel: after iteration: old_nbuckets: 2699, old_avail_nbuckets: 1285
+Aug 15 16:55:50 sfx-012 kernel: after iteration: new_nbuckets: 2699, new_avail_nbuckets: 1285
+Aug 15 16:55:50 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:55:56 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:55:56 sfx-012 kernel: Info from divice: remain_phy: 916898278, remain_log: 3667593112, used_log: 528650752
+Aug 15 16:55:56 sfx-012 kernel: before iteration: old_nbucket: 2756, old_avail_nbucket: 1272, used_nbucket: 1484, used_bucket_total_log: 778043392, used_bucket_free: 249392640, space_can_alloc: 667505638
+Aug 15 16:55:56 sfx-012 kernel: after iteration: old_nbuckets: 2757, old_avail_nbuckets: 1273
+Aug 15 16:55:56 sfx-012 kernel: after iteration: new_nbuckets: 2757, new_avail_nbuckets: 1273
+Aug 15 16:55:56 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:56:02 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:56:02 sfx-012 kernel: Info from divice: remain_phy: 906898278, remain_log: 3627593112, used_log: 568650752
+Aug 15 16:56:02 sfx-012 kernel: before iteration: old_nbucket: 2813, old_avail_nbucket: 1117, used_nbucket: 1696, used_bucket_total_log: 889192448, used_bucket_free: 320541696, space_can_alloc: 586356582
+Aug 15 16:56:02 sfx-012 kernel: after iteration: old_nbuckets: 2814, old_avail_nbuckets: 1118
+Aug 15 16:56:02 sfx-012 kernel: after iteration: new_nbuckets: 2814, new_avail_nbuckets: 1118
+Aug 15 16:56:02 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:56:08 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:56:08 sfx-012 kernel: Info from divice: remain_phy: 896898278, remain_log: 3587593112, used_log: 608650752
+Aug 15 16:56:08 sfx-012 kernel: before iteration: old_nbucket: 2871, old_avail_nbucket: 1107, used_nbucket: 1764, used_bucket_total_log: 924844032, used_bucket_free: 316193280, space_can_alloc: 580704998
+Aug 15 16:56:08 sfx-012 kernel: after iteration: old_nbuckets: 2871, old_avail_nbuckets: 1107
+Aug 15 16:56:08 sfx-012 kernel: after iteration: new_nbuckets: 2871, new_avail_nbuckets: 1107
+Aug 15 16:56:08 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:56:14 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:56:14 sfx-012 kernel: Info from divice: remain_phy: 886898278, remain_log: 3547593112, used_log: 648650752
+Aug 15 16:56:14 sfx-012 kernel: before iteration: old_nbucket: 2928, old_avail_nbucket: 1092, used_nbucket: 1836, used_bucket_total_log: 962592768, used_bucket_free: 313942016, space_can_alloc: 572956262
+Aug 15 16:56:14 sfx-012 kernel: after iteration: old_nbuckets: 2928, old_avail_nbuckets: 1092
+Aug 15 16:56:14 sfx-012 kernel: after iteration: new_nbuckets: 2928, new_avail_nbuckets: 1092
+Aug 15 16:56:14 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:56:19 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:56:19 sfx-012 kernel: Info from divice: remain_phy: 876898278, remain_log: 3507593112, used_log: 688650752
+Aug 15 16:56:19 sfx-012 kernel: before iteration: old_nbucket: 2985, old_avail_nbucket: 943, used_nbucket: 2042, used_bucket_total_log: 1070596096, used_bucket_free: 381945344, space_can_alloc: 494952934
+Aug 15 16:56:19 sfx-012 kernel: after iteration: old_nbuckets: 2986, old_avail_nbuckets: 944
+Aug 15 16:56:19 sfx-012 kernel: after iteration: new_nbuckets: 2986, new_avail_nbuckets: 944
+Aug 15 16:56:19 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:56:25 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:56:25 sfx-012 kernel: Info from divice: remain_phy: 866898278, remain_log: 3467593112, used_log: 728650752
+Aug 15 16:56:25 sfx-012 kernel: before iteration: old_nbucket: 3042, old_avail_nbucket: 930, used_nbucket: 2112, used_bucket_total_log: 1107296256, used_bucket_free: 378645504, space_can_alloc: 488252774
+Aug 15 16:56:25 sfx-012 kernel: after iteration: old_nbuckets: 3043, old_avail_nbuckets: 931
+Aug 15 16:56:25 sfx-012 kernel: after iteration: new_nbuckets: 3043, new_avail_nbuckets: 931
+Aug 15 16:56:25 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:56:31 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:56:31 sfx-012 kernel: Info from divice: remain_phy: 856898278, remain_log: 3427593112, used_log: 768650752
+Aug 15 16:56:31 sfx-012 kernel: before iteration: old_nbucket: 3099, old_avail_nbucket: 915, used_nbucket: 2184, used_bucket_total_log: 1145044992, used_bucket_free: 376394240, space_can_alloc: 480504038
+Aug 15 16:56:31 sfx-012 kernel: after iteration: old_nbuckets: 3100, old_avail_nbuckets: 916
+Aug 15 16:56:31 sfx-012 kernel: after iteration: new_nbuckets: 3100, new_avail_nbuckets: 916
+Aug 15 16:56:31 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:56:41 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:56:41 sfx-012 kernel: Info from divice: remain_phy: 846898278, remain_log: 3387593112, used_log: 808650752
+Aug 15 16:56:41 sfx-012 kernel: before iteration: old_nbucket: 3157, old_avail_nbucket: 753, used_nbucket: 2404, used_bucket_total_log: 1260388352, used_bucket_free: 451737600, space_can_alloc: 395160678
+Aug 15 16:56:41 sfx-012 kernel: after iteration: old_nbuckets: 3157, old_avail_nbuckets: 753
+Aug 15 16:56:41 sfx-012 kernel: after iteration: new_nbuckets: 3157, new_avail_nbuckets: 753
+Aug 15 16:56:41 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:57:08 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:57:08 sfx-012 kernel: Info from divice: remain_phy: 836898278, remain_log: 3347593112, used_log: 848650752
+Aug 15 16:57:08 sfx-012 kernel: before iteration: old_nbucket: 3214, old_avail_nbucket: 744, used_nbucket: 2470, used_bucket_total_log: 1294991360, used_bucket_free: 446340608, space_can_alloc: 390557670
+Aug 15 16:57:08 sfx-012 kernel: after iteration: old_nbuckets: 3214, old_avail_nbuckets: 744
+Aug 15 16:57:08 sfx-012 kernel: after iteration: new_nbuckets: 3214, new_avail_nbuckets: 744
+Aug 15 16:57:08 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:57:37 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:57:37 sfx-012 kernel: Info from divice: remain_phy: 826898278, remain_log: 3307593112, used_log: 888650752
+Aug 15 16:57:37 sfx-012 kernel: before iteration: old_nbucket: 3271, old_avail_nbucket: 731, used_nbucket: 2540, used_bucket_total_log: 1331691520, used_bucket_free: 443040768, space_can_alloc: 383857510
+Aug 15 16:57:37 sfx-012 kernel: after iteration: old_nbuckets: 3272, old_avail_nbuckets: 732
+Aug 15 16:57:37 sfx-012 kernel: after iteration: new_nbuckets: 3272, new_avail_nbuckets: 732
+Aug 15 16:57:37 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:57:55 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:57:55 sfx-012 kernel: Info from divice: remain_phy: 816898278, remain_log: 3267593112, used_log: 928650752
+Aug 15 16:57:55 sfx-012 kernel: before iteration: old_nbucket: 3328, old_avail_nbucket: 737, used_nbucket: 2591, used_bucket_total_log: 1358430208, used_bucket_free: 429779456, space_can_alloc: 387118822
+Aug 15 16:57:55 sfx-012 kernel: after iteration: old_nbuckets: 3329, old_avail_nbuckets: 738
+Aug 15 16:57:55 sfx-012 kernel: after iteration: new_nbuckets: 3329, new_avail_nbuckets: 738
+Aug 15 16:57:55 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:58:23 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:58:23 sfx-012 kernel: Info from divice: remain_phy: 806898278, remain_log: 3227593112, used_log: 968650752
+Aug 15 16:58:23 sfx-012 kernel: before iteration: old_nbucket: 3386, old_avail_nbucket: 725, used_nbucket: 2661, used_bucket_total_log: 1395130368, used_bucket_free: 426479616, space_can_alloc: 380418662
+Aug 15 16:58:23 sfx-012 kernel: after iteration: old_nbuckets: 3386, old_avail_nbuckets: 725
+Aug 15 16:58:23 sfx-012 kernel: after iteration: new_nbuckets: 3386, new_avail_nbuckets: 725
+Aug 15 16:58:23 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:58:50 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:58:50 sfx-012 kernel: Info from divice: remain_phy: 796898278, remain_log: 3187593112, used_log: 1008650752
+Aug 15 16:58:50 sfx-012 kernel: before iteration: old_nbucket: 3443, old_avail_nbucket: 712, used_nbucket: 2731, used_bucket_total_log: 1431830528, used_bucket_free: 423179776, space_can_alloc: 373718502
+Aug 15 16:58:50 sfx-012 kernel: after iteration: old_nbuckets: 3443, old_avail_nbuckets: 712
+Aug 15 16:58:50 sfx-012 kernel: after iteration: new_nbuckets: 3443, new_avail_nbuckets: 712
+Aug 15 16:58:50 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:59:18 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:59:18 sfx-012 kernel: Info from divice: remain_phy: 786898278, remain_log: 3147593112, used_log: 1048650752
+Aug 15 16:59:18 sfx-012 kernel: before iteration: old_nbucket: 3500, old_avail_nbucket: 701, used_nbucket: 2799, used_bucket_total_log: 1467482112, used_bucket_free: 418831360, space_can_alloc: 368066918
+Aug 15 16:59:18 sfx-012 kernel: after iteration: old_nbuckets: 3501, old_avail_nbuckets: 702
+Aug 15 16:59:18 sfx-012 kernel: after iteration: new_nbuckets: 3501, new_avail_nbuckets: 702
+Aug 15 16:59:18 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 16:59:40 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 16:59:40 sfx-012 kernel: Info from divice: remain_phy: 776898278, remain_log: 3107593112, used_log: 1088650752
+Aug 15 16:59:40 sfx-012 kernel: before iteration: old_nbucket: 3557, old_avail_nbucket: 729, used_nbucket: 2828, used_bucket_total_log: 1482686464, used_bucket_free: 394035712, space_can_alloc: 382862566
+Aug 15 16:59:40 sfx-012 kernel: after iteration: old_nbuckets: 3558, old_avail_nbuckets: 730
+Aug 15 16:59:40 sfx-012 kernel: after iteration: new_nbuckets: 3558, new_avail_nbuckets: 730
+Aug 15 16:59:40 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:00:01 sfx-012 systemd: Created slice User Slice of root.
+Aug 15 17:00:01 sfx-012 systemd: Started Session 381 of user root.
+Aug 15 17:00:01 sfx-012 systemd: Removed slice User Slice of root.
+Aug 15 17:00:05 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:00:05 sfx-012 kernel: Info from divice: remain_phy: 766898278, remain_log: 3067593112, used_log: 1128650752
+Aug 15 17:00:05 sfx-012 kernel: before iteration: old_nbucket: 3614, old_avail_nbucket: 720, used_nbucket: 2894, used_bucket_total_log: 1517289472, used_bucket_free: 388638720, space_can_alloc: 378259558
+Aug 15 17:00:05 sfx-012 kernel: after iteration: old_nbuckets: 3615, old_avail_nbuckets: 721
+Aug 15 17:00:05 sfx-012 kernel: after iteration: new_nbuckets: 3615, new_avail_nbuckets: 721
+Aug 15 17:00:05 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:00:33 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:00:33 sfx-012 kernel: Info from divice: remain_phy: 756898278, remain_log: 3027593112, used_log: 1168650752
+Aug 15 17:00:33 sfx-012 kernel: before iteration: old_nbucket: 3672, old_avail_nbucket: 708, used_nbucket: 2964, used_bucket_total_log: 1553989632, used_bucket_free: 385338880, space_can_alloc: 371559398
+Aug 15 17:00:33 sfx-012 kernel: after iteration: old_nbuckets: 3672, old_avail_nbuckets: 708
+Aug 15 17:00:33 sfx-012 kernel: after iteration: new_nbuckets: 3672, new_avail_nbuckets: 708
+Aug 15 17:00:33 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:00:54 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:00:54 sfx-012 kernel: Info from divice: remain_phy: 746898278, remain_log: 2987593112, used_log: 1208650752
+Aug 15 17:00:54 sfx-012 kernel: before iteration: old_nbucket: 3729, old_avail_nbucket: 732, used_nbucket: 2997, used_bucket_total_log: 1571291136, used_bucket_free: 362640384, space_can_alloc: 384257894
+Aug 15 17:00:54 sfx-012 kernel: after iteration: old_nbuckets: 3729, old_avail_nbuckets: 732
+Aug 15 17:00:54 sfx-012 kernel: after iteration: new_nbuckets: 3729, new_avail_nbuckets: 732
+Aug 15 17:00:54 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:01:01 sfx-012 systemd: Created slice User Slice of root.
+Aug 15 17:01:01 sfx-012 systemd: Started Session 382 of user root.
+Aug 15 17:01:01 sfx-012 systemd: Removed slice User Slice of root.
+Aug 15 17:01:22 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:01:22 sfx-012 kernel: Info from divice: remain_phy: 736898278, remain_log: 2947593112, used_log: 1248650752
+Aug 15 17:01:22 sfx-012 kernel: before iteration: old_nbucket: 3786, old_avail_nbucket: 719, used_nbucket: 3067, used_bucket_total_log: 1607991296, used_bucket_free: 359340544, space_can_alloc: 377557734
+Aug 15 17:01:22 sfx-012 kernel: after iteration: old_nbuckets: 3787, old_avail_nbuckets: 720
+Aug 15 17:01:22 sfx-012 kernel: after iteration: new_nbuckets: 3787, new_avail_nbuckets: 720
+Aug 15 17:01:22 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:01:51 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:01:51 sfx-012 kernel: Info from divice: remain_phy: 726898278, remain_log: 2907593112, used_log: 1288650752
+Aug 15 17:01:51 sfx-012 kernel: before iteration: old_nbucket: 3843, old_avail_nbucket: 708, used_nbucket: 3135, used_bucket_total_log: 1643642880, used_bucket_free: 354992128, space_can_alloc: 371906150
+Aug 15 17:01:51 sfx-012 kernel: after iteration: old_nbuckets: 3844, old_avail_nbuckets: 709
+Aug 15 17:01:51 sfx-012 kernel: after iteration: new_nbuckets: 3844, new_avail_nbuckets: 709
+Aug 15 17:01:51 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:02:22 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:02:22 sfx-012 kernel: Info from divice: remain_phy: 716898278, remain_log: 2867593112, used_log: 1328650752
+Aug 15 17:02:22 sfx-012 kernel: before iteration: old_nbucket: 3901, old_avail_nbucket: 696, used_nbucket: 3205, used_bucket_total_log: 1680343040, used_bucket_free: 351692288, space_can_alloc: 365205990
+Aug 15 17:02:22 sfx-012 kernel: after iteration: old_nbuckets: 3901, old_avail_nbuckets: 696
+Aug 15 17:02:22 sfx-012 kernel: after iteration: new_nbuckets: 3901, new_avail_nbuckets: 696
+Aug 15 17:02:22 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:02:42 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:02:42 sfx-012 kernel: Info from divice: remain_phy: 706898278, remain_log: 2827593112, used_log: 1368650752
+Aug 15 17:02:42 sfx-012 kernel: before iteration: old_nbucket: 3958, old_avail_nbucket: 722, used_nbucket: 3236, used_bucket_total_log: 1696595968, used_bucket_free: 327945216, space_can_alloc: 378953062
+Aug 15 17:02:42 sfx-012 kernel: after iteration: old_nbuckets: 3958, old_avail_nbuckets: 722
+Aug 15 17:02:42 sfx-012 kernel: after iteration: new_nbuckets: 3958, new_avail_nbuckets: 722
+Aug 15 17:02:42 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:03:11 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:03:11 sfx-012 kernel: Info from divice: remain_phy: 696898278, remain_log: 2787593112, used_log: 1408650752
+Aug 15 17:03:11 sfx-012 kernel: before iteration: old_nbucket: 4015, old_avail_nbucket: 707, used_nbucket: 3308, used_bucket_total_log: 1734344704, used_bucket_free: 325693952, space_can_alloc: 371204326
+Aug 15 17:03:11 sfx-012 kernel: after iteration: old_nbuckets: 4016, old_avail_nbuckets: 708
+Aug 15 17:03:11 sfx-012 kernel: after iteration: new_nbuckets: 4016, new_avail_nbuckets: 708
+Aug 15 17:03:11 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:03:35 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:03:35 sfx-012 kernel: Info from divice: remain_phy: 686898278, remain_log: 2747593112, used_log: 1448650752
+Aug 15 17:03:35 sfx-012 kernel: before iteration: old_nbucket: 4072, old_avail_nbucket: 704, used_nbucket: 3368, used_bucket_total_log: 1765801984, used_bucket_free: 317151232, space_can_alloc: 369747046
+Aug 15 17:03:35 sfx-012 kernel: after iteration: old_nbuckets: 4073, old_avail_nbuckets: 705
+Aug 15 17:03:35 sfx-012 kernel: after iteration: new_nbuckets: 4073, new_avail_nbuckets: 705
+Aug 15 17:03:35 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:04:07 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:04:07 sfx-012 kernel: Info from divice: remain_phy: 676898278, remain_log: 2707593112, used_log: 1488650752
+Aug 15 17:04:07 sfx-012 kernel: before iteration: old_nbucket: 4129, old_avail_nbucket: 689, used_nbucket: 3440, used_bucket_total_log: 1803550720, used_bucket_free: 314899968, space_can_alloc: 361998310
+Aug 15 17:04:07 sfx-012 kernel: after iteration: old_nbuckets: 4130, old_avail_nbuckets: 690
+Aug 15 17:04:07 sfx-012 kernel: after iteration: new_nbuckets: 4130, new_avail_nbuckets: 690
+Aug 15 17:04:07 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:04:31 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:04:31 sfx-012 kernel: Info from divice: remain_phy: 666898278, remain_log: 2667593112, used_log: 1528650752
+Aug 15 17:04:31 sfx-012 kernel: before iteration: old_nbucket: 4187, old_avail_nbucket: 718, used_nbucket: 3469, used_bucket_total_log: 1818755072, used_bucket_free: 290104320, space_can_alloc: 376793958
+Aug 15 17:04:31 sfx-012 kernel: after iteration: old_nbuckets: 4187, old_avail_nbuckets: 718
+Aug 15 17:04:31 sfx-012 kernel: after iteration: new_nbuckets: 4187, new_avail_nbuckets: 718
+Aug 15 17:04:31 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:04:58 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:04:58 sfx-012 kernel: Info from divice: remain_phy: 656898278, remain_log: 2627593112, used_log: 1568650752
+Aug 15 17:04:58 sfx-012 kernel: before iteration: old_nbucket: 4244, old_avail_nbucket: 707, used_nbucket: 3537, used_bucket_total_log: 1854406656, used_bucket_free: 285755904, space_can_alloc: 371142374
+Aug 15 17:04:58 sfx-012 kernel: after iteration: old_nbuckets: 4244, old_avail_nbuckets: 707
+Aug 15 17:04:58 sfx-012 kernel: after iteration: new_nbuckets: 4244, new_avail_nbuckets: 707
+Aug 15 17:04:58 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:05:26 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:05:26 sfx-012 kernel: Info from divice: remain_phy: 646898278, remain_log: 2587593112, used_log: 1608650752
+Aug 15 17:05:26 sfx-012 kernel: before iteration: old_nbucket: 4301, old_avail_nbucket: 698, used_nbucket: 3603, used_bucket_total_log: 1889009664, used_bucket_free: 280358912, space_can_alloc: 366539366
+Aug 15 17:05:27 sfx-012 kernel: after iteration: old_nbuckets: 4302, old_avail_nbuckets: 699
+Aug 15 17:05:27 sfx-012 kernel: after iteration: new_nbuckets: 4302, new_avail_nbuckets: 699
+Aug 15 17:05:27 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:05:52 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:05:52 sfx-012 kernel: Info from divice: remain_phy: 636898278, remain_log: 2547593112, used_log: 1648650752
+Aug 15 17:05:52 sfx-012 kernel: before iteration: old_nbucket: 4358, old_avail_nbucket: 691, used_nbucket: 3667, used_bucket_total_log: 1922564096, used_bucket_free: 273913344, space_can_alloc: 362984934
+Aug 15 17:05:52 sfx-012 kernel: after iteration: old_nbuckets: 4359, old_avail_nbuckets: 692
+Aug 15 17:05:52 sfx-012 kernel: after iteration: new_nbuckets: 4359, new_avail_nbuckets: 692
+Aug 15 17:05:52 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:06:15 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:06:15 sfx-012 kernel: Info from divice: remain_phy: 626898278, remain_log: 2507593112, used_log: 1688650752
+Aug 15 17:06:15 sfx-012 kernel: before iteration: old_nbucket: 4415, old_avail_nbucket: 721, used_nbucket: 3694, used_bucket_total_log: 1936719872, used_bucket_free: 248069120, space_can_alloc: 378829158
+Aug 15 17:06:15 sfx-012 kernel: after iteration: old_nbuckets: 4416, old_avail_nbuckets: 722
+Aug 15 17:06:15 sfx-012 kernel: after iteration: new_nbuckets: 4416, new_avail_nbuckets: 722
+Aug 15 17:06:15 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:06:41 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:06:41 sfx-012 kernel: Info from divice: remain_phy: 616898278, remain_log: 2467593112, used_log: 1728650752
+Aug 15 17:06:41 sfx-012 kernel: before iteration: old_nbucket: 4473, old_avail_nbucket: 713, used_nbucket: 3760, used_bucket_total_log: 1971322880, used_bucket_free: 242672128, space_can_alloc: 374226150
+Aug 15 17:06:41 sfx-012 kernel: after iteration: old_nbuckets: 4473, old_avail_nbuckets: 713
+Aug 15 17:06:41 sfx-012 kernel: after iteration: new_nbuckets: 4473, new_avail_nbuckets: 713
+Aug 15 17:06:41 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:07:11 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:07:11 sfx-012 kernel: Info from divice: remain_phy: 606898278, remain_log: 2427593112, used_log: 1768650752
+Aug 15 17:07:11 sfx-012 kernel: before iteration: old_nbucket: 4530, old_avail_nbucket: 700, used_nbucket: 3830, used_bucket_total_log: 2008023040, used_bucket_free: 239372288, space_can_alloc: 367525990
+Aug 15 17:07:11 sfx-012 kernel: after iteration: old_nbuckets: 4531, old_avail_nbuckets: 701
+Aug 15 17:07:11 sfx-012 kernel: after iteration: new_nbuckets: 4531, new_avail_nbuckets: 701
+Aug 15 17:07:11 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:07:40 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:07:40 sfx-012 kernel: Info from divice: remain_phy: 596898278, remain_log: 2387593112, used_log: 1808650752
+Aug 15 17:07:40 sfx-012 kernel: before iteration: old_nbucket: 4587, old_avail_nbucket: 689, used_nbucket: 3898, used_bucket_total_log: 2043674624, used_bucket_free: 235023872, space_can_alloc: 361874406
+Aug 15 17:07:40 sfx-012 kernel: after iteration: old_nbuckets: 4588, old_avail_nbuckets: 690
+Aug 15 17:07:40 sfx-012 kernel: after iteration: new_nbuckets: 4588, new_avail_nbuckets: 690
+Aug 15 17:07:40 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:08:07 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:08:07 sfx-012 kernel: Info from divice: remain_phy: 586898278, remain_log: 2347593112, used_log: 1848650752
+Aug 15 17:08:07 sfx-012 kernel: before iteration: old_nbucket: 4644, old_avail_nbucket: 712, used_nbucket: 3932, used_bucket_total_log: 2061500416, used_bucket_free: 212849664, space_can_alloc: 374048614
+Aug 15 17:08:07 sfx-012 kernel: after iteration: old_nbuckets: 4645, old_avail_nbuckets: 713
+Aug 15 17:08:07 sfx-012 kernel: after iteration: new_nbuckets: 4645, new_avail_nbuckets: 713
+Aug 15 17:08:07 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:08:37 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:08:37 sfx-012 kernel: Info from divice: remain_phy: 576898278, remain_log: 2307593112, used_log: 1888650752
+Aug 15 17:08:37 sfx-012 kernel: before iteration: old_nbucket: 4702, old_avail_nbucket: 704, used_nbucket: 3998, used_bucket_total_log: 2096103424, used_bucket_free: 207452672, space_can_alloc: 369445606
+Aug 15 17:08:37 sfx-012 kernel: after iteration: old_nbuckets: 4702, old_avail_nbuckets: 704
+Aug 15 17:08:37 sfx-012 kernel: after iteration: new_nbuckets: 4702, new_avail_nbuckets: 704
+Aug 15 17:08:37 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:09:05 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:09:05 sfx-012 kernel: Info from divice: remain_phy: 566898278, remain_log: 2267593112, used_log: 1928650752
+Aug 15 17:09:05 sfx-012 kernel: before iteration: old_nbucket: 4759, old_avail_nbucket: 699, used_nbucket: 4060, used_bucket_total_log: 2128609280, used_bucket_free: 199958528, space_can_alloc: 366939750
+Aug 15 17:09:05 sfx-012 kernel: after iteration: old_nbuckets: 4759, old_avail_nbuckets: 699
+Aug 15 17:09:05 sfx-012 kernel: after iteration: new_nbuckets: 4759, new_avail_nbuckets: 699
+Aug 15 17:09:05 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:09:32 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:09:32 sfx-012 kernel: Info from divice: remain_phy: 556898278, remain_log: 2227593112, used_log: 1968650752
+Aug 15 17:09:32 sfx-012 kernel: before iteration: old_nbucket: 4816, old_avail_nbucket: 694, used_nbucket: 4122, used_bucket_total_log: 2161115136, used_bucket_free: 192464384, space_can_alloc: 364433894
+Aug 15 17:09:32 sfx-012 kernel: after iteration: old_nbuckets: 4817, old_avail_nbuckets: 695
+Aug 15 17:09:32 sfx-012 kernel: after iteration: new_nbuckets: 4817, new_avail_nbuckets: 695
+Aug 15 17:09:32 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:10:01 sfx-012 systemd: Created slice User Slice of root.
+Aug 15 17:10:01 sfx-012 systemd: Started Session 383 of user root.
+Aug 15 17:10:01 sfx-012 systemd: Removed slice User Slice of root.
+Aug 15 17:10:03 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:10:03 sfx-012 kernel: Info from divice: remain_phy: 546898278, remain_log: 2187593112, used_log: 2008650752
+Aug 15 17:10:03 sfx-012 kernel: before iteration: old_nbucket: 4873, old_avail_nbucket: 683, used_nbucket: 4190, used_bucket_total_log: 2196766720, used_bucket_free: 188115968, space_can_alloc: 358782310
+Aug 15 17:10:03 sfx-012 kernel: after iteration: old_nbuckets: 4874, old_avail_nbuckets: 684
+Aug 15 17:10:03 sfx-012 kernel: after iteration: new_nbuckets: 4874, new_avail_nbuckets: 684
+Aug 15 17:10:03 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:10:30 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:10:30 sfx-012 kernel: Info from divice: remain_phy: 536898278, remain_log: 2147593112, used_log: 2048650752
+Aug 15 17:10:30 sfx-012 kernel: before iteration: old_nbucket: 4930, old_avail_nbucket: 713, used_nbucket: 4217, used_bucket_total_log: 2210922496, used_bucket_free: 162271744, space_can_alloc: 374626534
+Aug 15 17:10:30 sfx-012 kernel: after iteration: old_nbuckets: 4931, old_avail_nbuckets: 714
+Aug 15 17:10:30 sfx-012 kernel: after iteration: new_nbuckets: 4931, new_avail_nbuckets: 714
+Aug 15 17:10:30 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:11:00 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:11:00 sfx-012 kernel: Info from divice: remain_phy: 526898278, remain_log: 2107593112, used_log: 2088650752
+Aug 15 17:11:00 sfx-012 kernel: before iteration: old_nbucket: 4988, old_avail_nbucket: 699, used_nbucket: 4289, used_bucket_total_log: 2248671232, used_bucket_free: 160020480, space_can_alloc: 366877798
+Aug 15 17:11:00 sfx-012 kernel: after iteration: old_nbuckets: 4988, old_avail_nbuckets: 699
+Aug 15 17:11:00 sfx-012 kernel: after iteration: new_nbuckets: 4988, new_avail_nbuckets: 699
+Aug 15 17:11:00 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:11:30 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:11:30 sfx-012 kernel: Info from divice: remain_phy: 516898278, remain_log: 2067593112, used_log: 2128650752
+Aug 15 17:11:30 sfx-012 kernel: before iteration: old_nbucket: 5045, old_avail_nbucket: 690, used_nbucket: 4355, used_bucket_total_log: 2283274240, used_bucket_free: 154623488, space_can_alloc: 362274790
+Aug 15 17:11:30 sfx-012 kernel: after iteration: old_nbuckets: 5045, old_avail_nbuckets: 690
+Aug 15 17:11:30 sfx-012 kernel: after iteration: new_nbuckets: 5045, new_avail_nbuckets: 690
+Aug 15 17:11:30 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:11:47 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:11:47 sfx-012 kernel: Info from divice: remain_phy: 506898278, remain_log: 2027593112, used_log: -2126316544
+Aug 15 17:11:47 sfx-012 kernel: before iteration: old_nbucket: -3089, old_avail_nbucket: -7510, used_nbucket: 4421, used_bucket_total_log: 2317877248, used_bucket_free: 4444193792, space_can_alloc: -3937295514
+Aug 15 17:11:47 sfx-012 kernel: after iteration: old_nbuckets: -3088, old_avail_nbuckets: -7509
+Aug 15 17:11:47 sfx-012 kernel: after iteration: new_nbuckets: -3088, new_avail_nbuckets: -7509
+Aug 15 17:11:47 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:11:53 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:11:53 sfx-012 kernel: Info from divice: remain_phy: 496898278, remain_log: 1987593112, used_log: -2086316544
+Aug 15 17:11:53 sfx-012 kernel: before iteration: old_nbucket: -3032, old_avail_nbucket: 635, used_nbucket: -3667, used_bucket_total_log: -1922564096, used_bucket_free: 163752448, space_can_alloc: 333145830
+Aug 15 17:11:53 sfx-012 kernel: after iteration: old_nbuckets: -3032, old_avail_nbuckets: 635
+Aug 15 17:11:53 sfx-012 kernel: after iteration: new_nbuckets: -3032, new_avail_nbuckets: 635
+Aug 15 17:11:53 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:11:58 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:11:58 sfx-012 kernel: Info from divice: remain_phy: 486898278, remain_log: 1947593112, used_log: -2046316544
+Aug 15 17:11:58 sfx-012 kernel: before iteration: old_nbucket: -2974, old_avail_nbucket: 625, used_nbucket: -3599, used_bucket_total_log: -1886912512, used_bucket_free: 159404032, space_can_alloc: 327494246
+Aug 15 17:11:58 sfx-012 kernel: after iteration: old_nbuckets: -2975, old_avail_nbuckets: 624
+Aug 15 17:11:58 sfx-012 kernel: after iteration: new_nbuckets: -2975, new_avail_nbuckets: 624
+Aug 15 17:11:58 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:12:02 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:12:02 sfx-012 kernel: Info from divice: remain_phy: 476898278, remain_log: 1907593112, used_log: -2006316544
+Aug 15 17:12:02 sfx-012 kernel: before iteration: old_nbucket: -2917, old_avail_nbucket: 619, used_nbucket: -3536, used_bucket_total_log: -1853882368, used_bucket_free: 152434176, space_can_alloc: 324464102
+Aug 15 17:12:02 sfx-012 kernel: after iteration: old_nbuckets: -2918, old_avail_nbuckets: 618
+Aug 15 17:12:02 sfx-012 kernel: after iteration: new_nbuckets: -2918, new_avail_nbuckets: 618
+Aug 15 17:12:02 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:12:06 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:12:06 sfx-012 kernel: Info from divice: remain_phy: 466898278, remain_log: 1867593112, used_log: -1966316544
+Aug 15 17:12:06 sfx-012 kernel: before iteration: old_nbucket: -2860, old_avail_nbucket: 614, used_nbucket: -3474, used_bucket_total_log: -1821376512, used_bucket_free: 144940032, space_can_alloc: 321958246
+Aug 15 17:12:06 sfx-012 kernel: after iteration: old_nbuckets: -2860, old_avail_nbuckets: 614
+Aug 15 17:12:06 sfx-012 kernel: after iteration: new_nbuckets: -2860, new_avail_nbuckets: 614
+Aug 15 17:12:06 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:12:11 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:12:11 sfx-012 kernel: Info from divice: remain_phy: 456898278, remain_log: 1827593112, used_log: -1926316544
+Aug 15 17:12:11 sfx-012 kernel: before iteration: old_nbucket: -2803, old_avail_nbucket: 609, used_nbucket: -3412, used_bucket_total_log: -1788870656, used_bucket_free: 137445888, space_can_alloc: 319452390
+Aug 15 17:12:11 sfx-012 kernel: after iteration: old_nbuckets: -2803, old_avail_nbuckets: 609
+Aug 15 17:12:11 sfx-012 kernel: after iteration: new_nbuckets: -2803, new_avail_nbuckets: 609
+Aug 15 17:12:11 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:12:15 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:12:15 sfx-012 kernel: Info from divice: remain_phy: 446898278, remain_log: 1787593112, used_log: -1886316544
+Aug 15 17:12:15 sfx-012 kernel: before iteration: old_nbucket: -2745, old_avail_nbucket: 603, used_nbucket: -3348, used_bucket_total_log: -1755316224, used_bucket_free: 131000320, space_can_alloc: 315897958
+Aug 15 17:12:15 sfx-012 kernel: after iteration: old_nbuckets: -2746, old_avail_nbuckets: 602
+Aug 15 17:12:15 sfx-012 kernel: after iteration: new_nbuckets: -2746, new_avail_nbuckets: 602
+Aug 15 17:12:15 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:12:19 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:12:19 sfx-012 kernel: Info from divice: remain_phy: 436898278, remain_log: 1747593112, used_log: -1846316544
+Aug 15 17:12:19 sfx-012 kernel: before iteration: old_nbucket: -2688, old_avail_nbucket: 586, used_nbucket: -3274, used_bucket_total_log: -1716518912, used_bucket_free: 129797632, space_can_alloc: 307100646
+Aug 15 17:12:19 sfx-012 kernel: after iteration: old_nbuckets: -2689, old_avail_nbuckets: 585
+Aug 15 17:12:19 sfx-012 kernel: after iteration: new_nbuckets: -2689, new_avail_nbuckets: 585
+Aug 15 17:12:19 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:12:23 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:12:23 sfx-012 kernel: Info from divice: remain_phy: 426898278, remain_log: 1707593112, used_log: -1806316544
+Aug 15 17:12:23 sfx-012 kernel: before iteration: old_nbucket: -2631, old_avail_nbucket: 580, used_nbucket: -3211, used_bucket_total_log: -1683488768, used_bucket_free: 122827776, space_can_alloc: 304070502
+Aug 15 17:12:23 sfx-012 kernel: after iteration: old_nbuckets: -2632, old_avail_nbuckets: 579
+Aug 15 17:12:23 sfx-012 kernel: after iteration: new_nbuckets: -2632, new_avail_nbuckets: 579
+Aug 15 17:12:23 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:12:26 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:12:26 sfx-012 kernel: Info from divice: remain_phy: 416898278, remain_log: 1667593112, used_log: -1766316544
+Aug 15 17:12:26 sfx-012 kernel: before iteration: old_nbucket: -2575, old_avail_nbucket: 570, used_nbucket: -3145, used_bucket_total_log: -1648885760, used_bucket_free: 117430784, space_can_alloc: 299467494
+Aug 15 17:12:26 sfx-012 kernel: after iteration: old_nbuckets: -2574, old_avail_nbuckets: 571
+Aug 15 17:12:26 sfx-012 kernel: after iteration: new_nbuckets: -2574, new_avail_nbuckets: 571
+Aug 15 17:12:26 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:12:30 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:12:30 sfx-012 kernel: Info from divice: remain_phy: 406898278, remain_log: 1627593112, used_log: -1726316544
+Aug 15 17:12:30 sfx-012 kernel: before iteration: old_nbucket: -2517, old_avail_nbucket: 595, used_nbucket: -3112, used_bucket_total_log: -1631584256, used_bucket_free: 94732288, space_can_alloc: 312165990
+Aug 15 17:12:30 sfx-012 kernel: after iteration: old_nbuckets: -2517, old_avail_nbuckets: 595
+Aug 15 17:12:30 sfx-012 kernel: after iteration: new_nbuckets: -2517, new_avail_nbuckets: 595
+Aug 15 17:12:30 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:12:34 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:12:34 sfx-012 kernel: Info from divice: remain_phy: 396898278, remain_log: 1587593112, used_log: -1686316544
+Aug 15 17:12:34 sfx-012 kernel: before iteration: old_nbucket: -2459, old_avail_nbucket: 663, used_nbucket: -3122, used_bucket_total_log: -1636827136, used_bucket_free: 49489408, space_can_alloc: 347408870
+Aug 15 17:12:34 sfx-012 kernel: after iteration: old_nbuckets: -2460, old_avail_nbuckets: 662
+Aug 15 17:12:34 sfx-012 kernel: after iteration: new_nbuckets: -2460, new_avail_nbuckets: 662
+Aug 15 17:12:34 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:12:38 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:12:38 sfx-012 kernel: Info from divice: remain_phy: 386898278, remain_log: 1547593112, used_log: -1646316544
+Aug 15 17:12:38 sfx-012 kernel: before iteration: old_nbucket: -2402, old_avail_nbucket: 872, used_nbucket: -3274, used_bucket_total_log: -1716518912, used_bucket_free: -70202368, space_can_alloc: 457100646
+Aug 15 17:12:38 sfx-012 kernel: after iteration: old_nbuckets: -2403, old_avail_nbuckets: 871
+Aug 15 17:12:38 sfx-012 kernel: after iteration: new_nbuckets: -2403, new_avail_nbuckets: 871
+Aug 15 17:12:38 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:12:41 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:12:41 sfx-012 kernel: Info from divice: remain_phy: 376898278, remain_log: 1507593112, used_log: -1606316544
+Aug 15 17:12:41 sfx-012 kernel: before iteration: old_nbucket: -2342, old_avail_nbucket: 1448, used_nbucket: -3790, used_bucket_total_log: -1987051520, used_bucket_free: -380734976, space_can_alloc: 757633254
+Aug 15 17:12:41 sfx-012 kernel: after iteration: old_nbuckets: -2345, old_avail_nbuckets: 1445
+Aug 15 17:12:41 sfx-012 kernel: after iteration: new_nbuckets: -2345, new_avail_nbuckets: 1445
+Aug 15 17:12:41 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:12:46 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:12:46 sfx-012 kernel: Info from divice: remain_phy: 366898278, remain_log: 1467593112, used_log: -1566316544
+Aug 15 17:12:46 sfx-012 kernel: before iteration: old_nbucket: -2288, old_avail_nbucket: 1786, used_nbucket: -4074, used_bucket_total_log: -2135949312, used_bucket_free: -569632768, space_can_alloc: 936531046
+Aug 15 17:12:46 sfx-012 kernel: after iteration: old_nbuckets: -2288, old_avail_nbuckets: 1786
+Aug 15 17:12:46 sfx-012 kernel: after iteration: new_nbuckets: -2288, new_avail_nbuckets: 1786
+Aug 15 17:12:46 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:12:51 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:12:51 sfx-012 kernel: Info from divice: remain_phy: 356898278, remain_log: 1427593112, used_log: -1526316544
+Aug 15 17:12:51 sfx-012 kernel: before iteration: old_nbucket: -2230, old_avail_nbucket: 1921, used_nbucket: -4151, used_bucket_total_log: -2176319488, used_bucket_free: -650002944, space_can_alloc: 1006901222
+Aug 15 17:12:51 sfx-012 kernel: after iteration: old_nbuckets: -2231, old_avail_nbuckets: 1920
+Aug 15 17:12:51 sfx-012 kernel: after iteration: new_nbuckets: -2231, new_avail_nbuckets: 1920
+Aug 15 17:12:51 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:12:55 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:12:55 sfx-012 kernel: Info from divice: remain_phy: 346898278, remain_log: 1387593112, used_log: -1486316544
+Aug 15 17:12:55 sfx-012 kernel: before iteration: old_nbucket: -2173, old_avail_nbucket: 1954, used_nbucket: -4127, used_bucket_total_log: -2163736576, used_bucket_free: -677420032, space_can_alloc: 1024318310
+Aug 15 17:12:55 sfx-012 kernel: after iteration: old_nbuckets: -2174, old_avail_nbuckets: 1953
+Aug 15 17:12:55 sfx-012 kernel: after iteration: new_nbuckets: -2174, new_avail_nbuckets: 1953
+Aug 15 17:12:55 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:12:59 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:12:59 sfx-012 kernel: Info from divice: remain_phy: 336898278, remain_log: 1347593112, used_log: -1446316544
+Aug 15 17:12:59 sfx-012 kernel: before iteration: old_nbucket: -2115, old_avail_nbucket: 1943, used_nbucket: -4058, used_bucket_total_log: -2127560704, used_bucket_free: -681244160, space_can_alloc: 1018142438
+Aug 15 17:12:59 sfx-012 kernel: after iteration: old_nbuckets: -2117, old_avail_nbuckets: 1941
+Aug 15 17:12:59 sfx-012 kernel: after iteration: new_nbuckets: -2117, new_avail_nbuckets: 1941
+Aug 15 17:12:59 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:13:02 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:13:02 sfx-012 kernel: Info from divice: remain_phy: 326898278, remain_log: 1307593112, used_log: -1406316544
+Aug 15 17:13:02 sfx-012 kernel: before iteration: old_nbucket: -2059, old_avail_nbucket: 1934, used_nbucket: -3993, used_bucket_total_log: -2093481984, used_bucket_free: -687165440, space_can_alloc: 1014063718
+Aug 15 17:13:02 sfx-012 kernel: after iteration: old_nbuckets: -2059, old_avail_nbuckets: 1934
+Aug 15 17:13:02 sfx-012 kernel: after iteration: new_nbuckets: -2059, new_avail_nbuckets: 1934
+Aug 15 17:13:02 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:13:06 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:13:06 sfx-012 kernel: Info from divice: remain_phy: 316898278, remain_log: 1267593112, used_log: -1366316544
+Aug 15 17:13:06 sfx-012 kernel: before iteration: old_nbucket: -2002, old_avail_nbucket: 1922, used_nbucket: -3924, used_bucket_total_log: -2057306112, used_bucket_free: -690989568, space_can_alloc: 1007887846
+Aug 15 17:13:06 sfx-012 kernel: after iteration: old_nbuckets: -2002, old_avail_nbuckets: 1922
+Aug 15 17:13:06 sfx-012 kernel: after iteration: new_nbuckets: -2002, new_avail_nbuckets: 1922
+Aug 15 17:13:06 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:13:11 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:13:11 sfx-012 kernel: Info from divice: remain_phy: 306898278, remain_log: 1227593112, used_log: -1326316544
+Aug 15 17:13:11 sfx-012 kernel: before iteration: old_nbucket: -1944, old_avail_nbucket: 1916, used_nbucket: -3860, used_bucket_total_log: -2023751680, used_bucket_free: -697435136, space_can_alloc: 1004333414
+Aug 15 17:13:11 sfx-012 kernel: after iteration: old_nbuckets: -1945, old_avail_nbuckets: 1915
+Aug 15 17:13:11 sfx-012 kernel: after iteration: new_nbuckets: -1945, new_avail_nbuckets: 1915
+Aug 15 17:13:11 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:13:16 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:13:16 sfx-012 kernel: Info from divice: remain_phy: 296898278, remain_log: 1187593112, used_log: -1286316544
+Aug 15 17:13:16 sfx-012 kernel: before iteration: old_nbucket: -1887, old_avail_nbucket: 1912, used_nbucket: -3799, used_bucket_total_log: -1991770112, used_bucket_free: -705453568, space_can_alloc: 1002351846
+Aug 15 17:13:16 sfx-012 kernel: after iteration: old_nbuckets: -1888, old_avail_nbuckets: 1911
+Aug 15 17:13:16 sfx-012 kernel: after iteration: new_nbuckets: -1888, new_avail_nbuckets: 1911
+Aug 15 17:13:16 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:13:21 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:13:21 sfx-012 kernel: Info from divice: remain_phy: 286898278, remain_log: 1147593112, used_log: -1246316544
+Aug 15 17:13:21 sfx-012 kernel: before iteration: old_nbucket: -1830, old_avail_nbucket: 1947, used_nbucket: -3777, used_bucket_total_log: -1980235776, used_bucket_free: -733919232, space_can_alloc: 1020817510
+Aug 15 17:13:21 sfx-012 kernel: after iteration: old_nbuckets: -1830, old_avail_nbuckets: 1947
+Aug 15 17:13:21 sfx-012 kernel: after iteration: new_nbuckets: -1830, new_avail_nbuckets: 1947
+Aug 15 17:13:21 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:13:25 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:13:25 sfx-012 kernel: Info from divice: remain_phy: 276898278, remain_log: 1107593112, used_log: -1206316544
+Aug 15 17:13:25 sfx-012 kernel: before iteration: old_nbucket: -1774, old_avail_nbucket: 1947, used_nbucket: -3721, used_bucket_total_log: -1950875648, used_bucket_free: -744559104, space_can_alloc: 1021457382
+Aug 15 17:13:25 sfx-012 kernel: after iteration: old_nbuckets: -1773, old_avail_nbuckets: 1948
+Aug 15 17:13:25 sfx-012 kernel: after iteration: new_nbuckets: -1773, new_avail_nbuckets: 1948
+Aug 15 17:13:25 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:13:29 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:13:29 sfx-012 kernel: Info from divice: remain_phy: 266898278, remain_log: 1067593112, used_log: -1166316544
+Aug 15 17:13:29 sfx-012 kernel: before iteration: old_nbucket: -1715, old_avail_nbucket: 1952, used_nbucket: -3667, used_bucket_total_log: -1922564096, used_bucket_free: -756247552, space_can_alloc: 1023145830
+Aug 15 17:13:29 sfx-012 kernel: after iteration: old_nbuckets: -1716, old_avail_nbuckets: 1951
+Aug 15 17:13:29 sfx-012 kernel: after iteration: new_nbuckets: -1716, new_avail_nbuckets: 1951
+Aug 15 17:13:29 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:13:33 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:13:33 sfx-012 kernel: Info from divice: remain_phy: 256898278, remain_log: 1027593112, used_log: -1126316544
+Aug 15 17:13:33 sfx-012 kernel: before iteration: old_nbucket: -1659, old_avail_nbucket: 1939, used_nbucket: -3598, used_bucket_total_log: -1886388224, used_bucket_free: -760071680, space_can_alloc: 1016969958
+Aug 15 17:13:33 sfx-012 kernel: after iteration: old_nbuckets: -1659, old_avail_nbuckets: 1939
+Aug 15 17:13:33 sfx-012 kernel: after iteration: new_nbuckets: -1659, new_avail_nbuckets: 1939
+Aug 15 17:13:33 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:13:38 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:13:38 sfx-012 kernel: Info from divice: remain_phy: 246898278, remain_log: 987593112, used_log: -1086316544
+Aug 15 17:13:38 sfx-012 kernel: before iteration: old_nbucket: -3427, old_avail_nbucket: 1882, used_nbucket: -5309, used_bucket_total_log: -2783444992, used_bucket_free: -1697128448, space_can_alloc: 987593112
+Aug 15 17:13:38 sfx-012 kernel: after iteration: old_nbuckets: -3426, old_avail_nbuckets: 1883
+Aug 15 17:13:38 sfx-012 kernel: after iteration: new_nbuckets: -3426, new_avail_nbuckets: 1883
+Aug 15 17:13:38 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:13:42 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:13:42 sfx-012 kernel: Info from divice: remain_phy: 236898278, remain_log: 947593112, used_log: -1046316544
+Aug 15 17:13:42 sfx-012 kernel: before iteration: old_nbucket: -11459, old_avail_nbucket: 1806, used_nbucket: -13265, used_bucket_total_log: -6954680320, used_bucket_free: -5908363776, space_can_alloc: 947593112
+Aug 15 17:13:42 sfx-012 kernel: after iteration: old_nbuckets: -11458, old_avail_nbuckets: 1807
+Aug 15 17:13:42 sfx-012 kernel: after iteration: new_nbuckets: -11458, new_avail_nbuckets: 1807
+Aug 15 17:13:42 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:13:47 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:13:47 sfx-012 kernel: Info from divice: remain_phy: 226898278, remain_log: 907593112, used_log: -1006316544
+Aug 15 17:13:47 sfx-012 kernel: before iteration: old_nbucket: -24451, old_avail_nbucket: 1730, used_nbucket: -26181, used_bucket_total_log: -13726384128, used_bucket_free: -12720067584, space_can_alloc: 907593112
+Aug 15 17:13:47 sfx-012 kernel: after iteration: old_nbuckets: -24450, old_avail_nbuckets: 1731
+Aug 15 17:13:47 sfx-012 kernel: after iteration: new_nbuckets: -24450, new_avail_nbuckets: 1731
+Aug 15 17:13:47 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:13:51 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:13:51 sfx-012 kernel: Info from divice: remain_phy: 216898278, remain_log: 867593112, used_log: -966316544
+Aug 15 17:13:51 sfx-012 kernel: before iteration: old_nbucket: -41862, old_avail_nbucket: 1919, used_nbucket: -43781, used_bucket_total_log: -22953852928, used_bucket_free: -21987536384, space_can_alloc: 867593112
+Aug 15 17:13:51 sfx-012 kernel: after iteration: old_nbuckets: -42127, old_avail_nbuckets: 1654
+Aug 15 17:13:51 sfx-012 kernel: after iteration: new_nbuckets: -42127, new_avail_nbuckets: 1654
+Aug 15 17:13:51 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:13:55 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:13:55 sfx-012 kernel: Info from divice: remain_phy: 206898278, remain_log: 827593112, used_log: -926316544
+Aug 15 17:13:55 sfx-012 kernel: before iteration: old_nbucket: -65317, old_avail_nbucket: 1577, used_nbucket: -66894, used_bucket_total_log: -35071721472, used_bucket_free: -34145404928, space_can_alloc: 827593112
+Aug 15 17:13:55 sfx-012 kernel: after iteration: old_nbuckets: -65316, old_avail_nbuckets: 1578
+Aug 15 17:13:55 sfx-012 kernel: after iteration: new_nbuckets: -65316, new_avail_nbuckets: 1578
+Aug 15 17:13:55 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:13:59 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:13:59 sfx-012 kernel: Info from divice: remain_phy: 196898278, remain_log: 787593112, used_log: -886316544
+Aug 15 17:13:59 sfx-012 kernel: before iteration: old_nbucket: -99343, old_avail_nbucket: 1501, used_nbucket: -100844, used_bucket_total_log: -52871299072, used_bucket_free: -51984982528, space_can_alloc: 787593112
+Aug 15 17:13:59 sfx-012 kernel: after iteration: old_nbuckets: -99342, old_avail_nbuckets: 1502
+Aug 15 17:13:59 sfx-012 kernel: after iteration: new_nbuckets: -99342, new_avail_nbuckets: 1502
+Aug 15 17:13:59 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:14:04 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:14:04 sfx-012 kernel: Info from divice: remain_phy: 186898278, remain_log: 747593112, used_log: -846316544
+Aug 15 17:14:04 sfx-012 kernel: before iteration: old_nbucket: -143763, old_avail_nbucket: 1425, used_nbucket: -145188, used_bucket_total_log: -76120326144, used_bucket_free: -75274009600, space_can_alloc: 747593112
+Aug 15 17:14:04 sfx-012 kernel: after iteration: old_nbuckets: -143763, old_avail_nbuckets: 1425
+Aug 15 17:14:04 sfx-012 kernel: after iteration: new_nbuckets: -143763, new_avail_nbuckets: 1425
+Aug 15 17:14:04 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:14:08 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:14:08 sfx-012 kernel: Info from divice: remain_phy: 176898278, remain_log: 707593112, used_log: -806316544
+Aug 15 17:14:08 sfx-012 kernel: before iteration: old_nbucket: -180662, old_avail_nbucket: 1349, used_nbucket: -182011, used_bucket_total_log: -95426183168, used_bucket_free: -94619866624, space_can_alloc: 707593112
+Aug 15 17:14:08 sfx-012 kernel: after iteration: old_nbuckets: -180662, old_avail_nbuckets: 1349
+Aug 15 17:14:08 sfx-012 kernel: after iteration: new_nbuckets: -180662, new_avail_nbuckets: 1349
+Aug 15 17:14:08 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:14:13 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:14:13 sfx-012 kernel: Info from divice: remain_phy: 166898278, remain_log: 667593112, used_log: -766316544
+Aug 15 17:14:13 sfx-012 kernel: before iteration: old_nbucket: -233417, old_avail_nbucket: 1944, used_nbucket: -235361, used_bucket_total_log: -123396947968, used_bucket_free: -122630631424, space_can_alloc: 667593112
+Aug 15 17:14:13 sfx-012 kernel: after iteration: old_nbuckets: -234088, old_avail_nbuckets: 1273
+Aug 15 17:14:13 sfx-012 kernel: after iteration: new_nbuckets: -234088, new_avail_nbuckets: 1273
+Aug 15 17:14:13 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:14:17 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:14:17 sfx-012 kernel: Info from divice: remain_phy: 156898278, remain_log: 627593112, used_log: -726316544
+Aug 15 17:14:17 sfx-012 kernel: before iteration: old_nbucket: -294679, old_avail_nbucket: 1196, used_nbucket: -295875, used_bucket_total_log: -155123712000, used_bucket_free: -154397395456, space_can_alloc: 627593112
+Aug 15 17:14:17 sfx-012 kernel: after iteration: old_nbuckets: -294678, old_avail_nbuckets: 1197
+Aug 15 17:14:17 sfx-012 kernel: after iteration: new_nbuckets: -294678, new_avail_nbuckets: 1197
+Aug 15 17:14:17 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:14:22 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:14:22 sfx-012 kernel: Info from divice: remain_phy: 146898278, remain_log: 587593112, used_log: -686316544
+Aug 15 17:14:22 sfx-012 kernel: before iteration: old_nbucket: -357884, old_avail_nbucket: 1119, used_nbucket: -359003, used_bucket_total_log: -188220964864, used_bucket_free: -187534648320, space_can_alloc: 587593112
+Aug 15 17:14:22 sfx-012 kernel: after iteration: old_nbuckets: -357883, old_avail_nbuckets: 1120
+Aug 15 17:14:22 sfx-012 kernel: after iteration: new_nbuckets: -357883, new_avail_nbuckets: 1120
+Aug 15 17:14:22 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:14:26 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:14:26 sfx-012 kernel: Info from divice: remain_phy: 136898278, remain_log: 547593112, used_log: -646316544
+Aug 15 17:14:26 sfx-012 kernel: before iteration: old_nbucket: -420104, old_avail_nbucket: 1936, used_nbucket: -422040, used_bucket_total_log: -221270507520, used_bucket_free: -220624190976, space_can_alloc: 547593112
+Aug 15 17:14:26 sfx-012 kernel: after iteration: old_nbuckets: -420996, old_avail_nbuckets: 1044
+Aug 15 17:14:26 sfx-012 kernel: after iteration: new_nbuckets: -420996, new_avail_nbuckets: 1044
+Aug 15 17:14:26 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:14:30 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:14:30 sfx-012 kernel: Info from divice: remain_phy: 126898278, remain_log: 507593112, used_log: -606316544
+Aug 15 17:14:30 sfx-012 kernel: before iteration: old_nbucket: -495441, old_avail_nbucket: 967, used_nbucket: -496408, used_bucket_total_log: -260260757504, used_bucket_free: -259654440960, space_can_alloc: 507593112
+Aug 15 17:14:30 sfx-012 kernel: after iteration: old_nbuckets: -495440, old_avail_nbuckets: 968
+Aug 15 17:14:30 sfx-012 kernel: after iteration: new_nbuckets: -495440, new_avail_nbuckets: 968
+Aug 15 17:14:30 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:14:34 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:14:34 sfx-012 kernel: Info from divice: remain_phy: 116898278, remain_log: 467593112, used_log: -566316544
+Aug 15 17:14:34 sfx-012 kernel: before iteration: old_nbucket: -579594, old_avail_nbucket: 1938, used_nbucket: -581532, used_bucket_total_log: -304890249216, used_bucket_free: -304323932672, space_can_alloc: 467593112
+Aug 15 17:14:34 sfx-012 kernel: after iteration: old_nbuckets: -580641, old_avail_nbuckets: 891
+Aug 15 17:14:34 sfx-012 kernel: after iteration: new_nbuckets: -580641, new_avail_nbuckets: 891
+Aug 15 17:14:34 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:14:40 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:14:40 sfx-012 kernel: Info from divice: remain_phy: 106898278, remain_log: 427593112, used_log: -526316544
+Aug 15 17:14:40 sfx-012 kernel: before iteration: old_nbucket: -686666, old_avail_nbucket: 1949, used_nbucket: -688615, used_bucket_total_log: -361032581120, used_bucket_free: -360506264576, space_can_alloc: 427593112
+Aug 15 17:14:40 sfx-012 kernel: after iteration: old_nbuckets: -687800, old_avail_nbuckets: 815
+Aug 15 17:14:40 sfx-012 kernel: after iteration: new_nbuckets: -687800, new_avail_nbuckets: 815
+Aug 15 17:14:40 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:14:45 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:14:45 sfx-012 kernel: Info from divice: remain_phy: 96898278, remain_log: 387593112, used_log: -486316544
+Aug 15 17:14:45 sfx-012 kernel: before iteration: old_nbucket: -803836, old_avail_nbucket: 1949, used_nbucket: -805785, used_bucket_total_log: -422463406080, used_bucket_free: -421977089536, space_can_alloc: 387593112
+Aug 15 17:14:45 sfx-012 kernel: after iteration: old_nbuckets: -805046, old_avail_nbuckets: 739
+Aug 15 17:14:45 sfx-012 kernel: after iteration: new_nbuckets: -805046, new_avail_nbuckets: 739
+Aug 15 17:14:45 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:14:50 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:14:50 sfx-012 kernel: Info from divice: remain_phy: 86898278, remain_log: 347593112, used_log: -446316544
+Aug 15 17:14:50 sfx-012 kernel: before iteration: old_nbucket: -928635, old_avail_nbucket: 1949, used_nbucket: -930584, used_bucket_total_log: -487894024192, used_bucket_free: -487447707648, space_can_alloc: 347593112
+Aug 15 17:14:50 sfx-012 kernel: after iteration: old_nbuckets: -929922, old_avail_nbuckets: 662
+Aug 15 17:14:50 sfx-012 kernel: after iteration: new_nbuckets: -929922, new_avail_nbuckets: 662
+Aug 15 17:14:50 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:14:55 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:14:55 sfx-012 kernel: Info from divice: remain_phy: 76898278, remain_log: 307593112, used_log: -406316544
+Aug 15 17:14:55 sfx-012 kernel: before iteration: old_nbucket: -1061184, old_avail_nbucket: 1953, used_nbucket: -1063137, used_bucket_total_log: -557389971456, used_bucket_free: -556983654912, space_can_alloc: 307593112
+Aug 15 17:14:55 sfx-012 kernel: after iteration: old_nbuckets: -1062551, old_avail_nbuckets: 586
+Aug 15 17:14:55 sfx-012 kernel: after iteration: new_nbuckets: -1062551, new_avail_nbuckets: 586
+Aug 15 17:14:55 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:15:01 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:15:01 sfx-012 kernel: Info from divice: remain_phy: 66898278, remain_log: 267593112, used_log: -366316544
+Aug 15 17:15:01 sfx-012 kernel: before iteration: old_nbucket: -1201652, old_avail_nbucket: 1955, used_nbucket: -1203607, used_bucket_total_log: -631036706816, used_bucket_free: -630670390272, space_can_alloc: 267593112
+Aug 15 17:15:01 sfx-012 kernel: after iteration: old_nbuckets: -1203097, old_avail_nbuckets: 510
+Aug 15 17:15:01 sfx-012 kernel: after iteration: new_nbuckets: -1203097, new_avail_nbuckets: 510
+Aug 15 17:15:01 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:15:06 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:15:06 sfx-012 kernel: Info from divice: remain_phy: 56898278, remain_log: 227593112, used_log: -326316544
+Aug 15 17:15:06 sfx-012 kernel: before iteration: old_nbucket: -1349939, old_avail_nbucket: 1955, used_nbucket: -1351894, used_bucket_total_log: -708781801472, used_bucket_free: -708455484928, space_can_alloc: 227593112
+Aug 15 17:15:06 sfx-012 kernel: after iteration: old_nbuckets: -1351460, old_avail_nbuckets: 434
+Aug 15 17:15:06 sfx-012 kernel: after iteration: new_nbuckets: -1351460, new_avail_nbuckets: 434
+Aug 15 17:15:06 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:15:11 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:15:11 sfx-012 kernel: Info from divice: remain_phy: 46898278, remain_log: 187593112, used_log: -286316544
+Aug 15 17:15:11 sfx-012 kernel: before iteration: old_nbucket: -1505855, old_avail_nbucket: 1955, used_nbucket: -1507810, used_bucket_total_log: -790526689280, used_bucket_free: -790240372736, space_can_alloc: 187593112
+Aug 15 17:15:11 sfx-012 kernel: after iteration: old_nbuckets: -1507453, old_avail_nbuckets: 357
+Aug 15 17:15:11 sfx-012 kernel: after iteration: new_nbuckets: -1507453, new_avail_nbuckets: 357
+Aug 15 17:15:11 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:15:16 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:15:16 sfx-012 kernel: Info from divice: remain_phy: 36898278, remain_log: 147593112, used_log: -246316544
+Aug 15 17:15:16 sfx-012 kernel: before iteration: old_nbucket: -1669401, old_avail_nbucket: 1955, used_nbucket: -1671356, used_bucket_total_log: -876271894528, used_bucket_free: -876025577984, space_can_alloc: 147593112
+Aug 15 17:15:16 sfx-012 kernel: after iteration: old_nbuckets: -1671075, old_avail_nbuckets: 281
+Aug 15 17:15:16 sfx-012 kernel: after iteration: new_nbuckets: -1671075, new_avail_nbuckets: 281
+Aug 15 17:15:16 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:15:22 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:15:22 sfx-012 kernel: Info from divice: remain_phy: 26898278, remain_log: 107593112, used_log: -206316544
+Aug 15 17:15:22 sfx-012 kernel: before iteration: old_nbucket: -1840577, old_avail_nbucket: 1955, used_nbucket: -1842532, used_bucket_total_log: -966017417216, used_bucket_free: -965811100672, space_can_alloc: 107593112
+Aug 15 17:15:22 sfx-012 kernel: after iteration: old_nbuckets: -1842327, old_avail_nbuckets: 205
+Aug 15 17:15:22 sfx-012 kernel: after iteration: new_nbuckets: -1842327, new_avail_nbuckets: 205
+Aug 15 17:15:22 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
+Aug 15 17:15:27 sfx-012 kernel: 11111111111111111111111111111111111111111111111111111111111111111111111111111111
+Aug 15 17:15:27 sfx-012 kernel: Info from divice: remain_phy: 16898278, remain_log: 67593112, used_log: -166316544
+Aug 15 17:15:27 sfx-012 kernel: before iteration: old_nbucket: -2019382, old_avail_nbucket: 1955, used_nbucket: -2021337, used_bucket_total_log: -1059762733056, used_bucket_free: -1059596416512, space_can_alloc: 67593112
+Aug 15 17:15:27 sfx-012 kernel: after iteration: old_nbuckets: -2021209, old_avail_nbuckets: 128
+Aug 15 17:15:27 sfx-012 kernel: after iteration: new_nbuckets: -2021209, new_avail_nbuckets: 128
+Aug 15 17:15:27 sfx-012 kernel: 22222222222222222222222222222222222222222222222222222222222222222222222222222222
